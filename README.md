@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://fabsantana.github.io/product-preview-card-component-main/)
+- Live Site URL: [GitHub Pages](https://fabsantana.github.io/product-preview-card-component-main/)
 
 ## My process
 
